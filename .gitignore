@@ -1,0 +1,15 @@
+# Ignorar arquivos de configurações locais
+.vscode/
+.idea/
+*.log
+
+# Ignorar diretórios temporários e de cache
+node_modules/
+dist/
+tmp/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+#ignora
