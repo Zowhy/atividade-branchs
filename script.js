@@ -16,3 +16,4 @@ window.onload = () => {
     saudacao();
     exibirDataAtual();
 };
+console.log()
